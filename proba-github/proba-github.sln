@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proba-github", "proba-github\proba-github.csproj", "{042049A2-10A1-46DE-A749-821BCB782F8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042049A2-10A1-46DE-A749-821BCB782F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042049A2-10A1-46DE-A749-821BCB782F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042049A2-10A1-46DE-A749-821BCB782F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042049A2-10A1-46DE-A749-821BCB782F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07AC2F26-5DEE-474B-9F89-C8AA6750B314}
+	EndGlobalSection
+EndGlobal
